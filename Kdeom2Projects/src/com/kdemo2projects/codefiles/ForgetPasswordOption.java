@@ -3,7 +3,7 @@ package com.kdemo2projects.codefiles;
 public class ForgetPasswordOption {
 	
 	//  class constant for default size 6 
-    private static final int DEFAULT_CAP = 20;
+    private static final int DEFAULT_CAP = 30;
     //Comment added during check-in for Req ID-555
     //instance variables
     // iValues store the elements of the list and 1
