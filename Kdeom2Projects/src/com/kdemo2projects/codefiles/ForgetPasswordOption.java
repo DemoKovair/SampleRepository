@@ -4,7 +4,7 @@ public class ForgetPasswordOption {
 	
 	//  class constant for default size 6 
     private static final int DEFAULT_CAP = 30;
-    //Comment added during check-in for Req ID-555
+    //Comment added during check-in for Req ID-555 
     //instance variables
     // iValues store the elements of the list and 1
     // may have extra capacity
